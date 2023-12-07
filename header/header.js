@@ -5,7 +5,7 @@ const nav = document.createElement("nav");
 header.appendChild(nav);
 
 let linksInfo = [
-  {href: "index.html", text: "Início"},
+  {href: "/index.html", text: "Início"},
   {href: "/html/projetos.html", text: "Projetos"},
   {href: "contato.html", text: "Contato"}
 ];
