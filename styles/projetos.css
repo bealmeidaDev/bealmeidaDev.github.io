@@ -36,7 +36,7 @@ article>p {
     margin: 1rem;
 }
 
-article>button {
+article>a>button {
     margin-top: auto;
     background: teal;
     color: white;
