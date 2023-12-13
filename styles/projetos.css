@@ -9,6 +9,9 @@
 }
 article {
     display: grid;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
 
     border: 1px solid black;
     border-radius: 1rem;
@@ -22,6 +25,7 @@ article>img {
 article>h1 {
     margin: 1rem;
     font-size: 2rem;
+    text-align: center;
 }
 
 article>ul {
