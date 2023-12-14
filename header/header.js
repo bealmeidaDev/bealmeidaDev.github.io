@@ -7,7 +7,7 @@ header.appendChild(nav);
 let linksInfo = [
   {href: "/index.html", text: "Início"},
   {href: "/html/projetos.html", text: "Projetos"},
-  {href: "contato.html", text: "Contato"}
+  {href: "/html/contato.html", text: "Contato"}
 ];
 
 for (link of linksInfo) {
